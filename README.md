@@ -27,7 +27,7 @@ All five tasks are organized into separate folders, along with a detailed projec
 
 ## Important Links
 - Google Form Quiz(Task3):https://docs.google.com/forms/d/e/1FAIpQLSeBGsLZwAJ8Ukyq2YRcPHI951I07wHwW_rduSlXoSYPXgjctw/viewform?usp=dialog
-- LinkedIn url : https://www.linkedin.com/in/siddhant-ghoshal-190797382/ 
+- LinkedIn url : https://www.linkedin.com/in/lakshya-pareek-87948a339?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 
@@ -41,7 +41,7 @@ Created an infographic using Canva to explain digital literacy concepts such as 
 ### Task 2 – Student Digital Portfolio
 Developed profiles on platforms like GitHub, LinkedIn, and Stack Overflow to build a professional digital presence and showcase learning goals.
 
-- LinkedIn url : https://www.linkedin.com/in/siddhant-ghoshal-190797382/
+- LinkedIn url : https://www.linkedin.com/in/lakshya-pareek-87948a339?utm_source=share_via&utm_content=profile&utm_medium=member_android
 ---
 
 ### Task 3 – Coding & Collaboration Platforms
